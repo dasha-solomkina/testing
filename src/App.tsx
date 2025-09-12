@@ -13,7 +13,7 @@ function App() {
 
   return (
     <>
-      <h1>Vite + React</h1>
+      <h1>Unit and React testing</h1>
 
       <div className="card">
         <button onClick={handleClick}>count is {count}</button>
